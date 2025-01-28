@@ -35,7 +35,7 @@ threatcloud.iaas.checkpoint.com
 te.iaas.checkpoint.com
 te.checkpoint.com
 threat-emulation.checkpoint.com
-.deploy.static.akamaitechnologies.com
+*.deploy.static.akamaitechnologies.com
 
 
 
