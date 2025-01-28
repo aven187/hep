@@ -1,4 +1,3 @@
-*.epmgmt.checkpoint.com
 dl3.checkpoint.com
 gwevents.checkpoint.com
 ftp-proxy.checkpoint.com
@@ -15,7 +14,6 @@ dtwesteuropeprod2.blob.core.windows.net
 dtwesteuropeprod3.blob.core.windows.net
 datatubeprodwesteurope.blob.core.windows.net
 datatube-prod.azurewebsites.net
-*.iaas.checkpoint.com
 rep.checkpoint.com
 cloudinfra-gw.portal.checkpoint.com
 web-rep.checkpoint.com
